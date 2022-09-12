@@ -80,4 +80,7 @@ resetBtn.addEventListener("click", function () {
   hours = 0;
 
   document.getElementById("timer").innerHTML = "00:00:00";
+  document.getElementById("startStopBtn").innerHTML =
+    '<i class="fa-solid fa-play" id="play"></i>';
+  timerStatus = "stopped";
 });
