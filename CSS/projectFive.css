@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  height: 100vh;
+  background: url(./../images/cats.jpg) no-repeat center center/cover;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#add-task-container {
+  width: 22rem;
+  padding: 1.2rem 0.6rem;
+  background: #fff;
+  border-radius: 1.25rem;
+  box-shadow: 0 0 3px;
+  margin-bottom: 2rem;
+
+  display: flex;
+}
+
+input {
+  flex: 5;
+  margin-right: 0.6rem;
+  font-size: 1.2rem;
+  padding: 0.31rem;
+}
+
+#add-task {
+  flex: 1;
+  transition: 0.5s;
+
+  font-size: 1.2rem;
+  padding: 0.31rem;
+
+  background-color: #fff;
+  color: rgb(73, 206, 73);
+
+  border: rgb(80, 212, 80) solid 2px;
+
+  border-radius: 0.6rem;
+}
+
+#add-task:hover {
+  background-color: rgb(115, 233, 115);
+  color: #fff;
+}
+
+/* ! Styling for task which get added to to-do list */
+
+.task {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 3px;
+
+  padding: 0.31rem;
+  margin-bottom: 0.31rem;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.task li {
+  list-style: none;
+  flex: 4;
+  padding: 0.31rem;
+  font-size: 1.3rem;
+  margin: 0.6rem;
+}
+
+.task button {
+  flex: 1;
+  border-radius: 0.6rem;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.task .checkTask {
+  color: rgb(223, 171, 76);
+  margin-right: 0.31rem;
+  border: solid 2px rgb(223, 171, 76);
+  font: 1.5rem;
+}
+
+.task .checkTask:hover {
+  background-color: rgb(223, 171, 76);
+  color: #fff;
+}
+
+.task .deletekTask {
+  color: rgb(223, 123, 92);
+  margin-right: 0.31rem;
+  border: solid 2px rgb(218, 83, 73);
+  font: 1.54em;
+}
+
+.task .deleteTask:hover {
+  background-color: rgb(218, 83, 73);
+  color: #fff;
+}

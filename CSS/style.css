@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(./../images/yacht.jpg) no-repeat center center/ cover;
+    height: 100vh;
+    position: relative;
+} 
+
+.card {
+    height: 20rem;
+}
+
+.card img {
+    height: 12rem;
+}
+
+button {
+    background: transparent;
+}
+
+.card a{
+    background: transparent;
+    color: rgb(88, 72, 36);
+}
+
+.card a:hover {
+    background-color: rgb(231, 131, 131) !important;
+    color: white!important;
+}
