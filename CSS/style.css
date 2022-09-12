@@ -31,3 +31,53 @@ button {
     background-color: rgb(231, 131, 131) !important;
     color: white!important;
 }
+
+/* ! Media Queries */
+
+@media screen and (max-width: 1000px) {
+    html {
+      font-size: 13px;
+    }
+  }
+  
+  @media screen and (max-width: 900px) {
+    html {
+      font-size: 11px;
+    }
+  }
+  
+  @media screen and (max-width: 800px) {
+    html {
+      font-size: 10px;
+    }
+  }
+  
+  @media screen and (max-width: 700px) {
+    html {
+      font-size: 9px;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    html {
+      font-size: 8px;
+    }
+  }
+  
+  @media screen and (max-width: 550px) {
+    html {
+      font-size: 7px;
+    }
+  }
+  
+  @media screen and (max-width: 500px) {
+    html {
+      font-size: 6px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    html {
+      font-size: 5px;
+    }
+  }
