@@ -45,6 +45,8 @@ I used:
 2- DOM Manipulation
 3- HTML and CSS structuring
 
+<hr>
+
 ### Modal Web
 <p>I used:</p>
 <ul>
@@ -53,12 +55,16 @@ I used:
   <li>HTML and CSS structuring</li>
 </ul>
 
+<hr>
+
 ### Accordion
 <p>I used:</p>
 <ul>
   <li> DOM Manipulation</li>
   <li>CSS Animations</li>
 </ul>
+
+<hr>
 
 ### Timer
 <p>I used:</p>
@@ -68,7 +74,9 @@ I used:
   <li>HTML and CSS structuring</li>
 </ul>
 
-### TODo List
+<hr>
+
+### TODO List
 <p>I used:</p>
 <ul>
   <li><a href="https://sweetalert2.github.io/e">Sweet Alert</a></li>
