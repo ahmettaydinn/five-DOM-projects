@@ -23,7 +23,7 @@
 
 
 ## Overview
-From beginner to master I have finished 5 Vanilla projects.I got the idea on Internet and improved myself
+From beginner to master I have finished 5 Vanilla Javascript projects with api's and some open source apis.I got the ideas on Internet and improved myself.
 
 ## Screenshot
 <p align="center">
