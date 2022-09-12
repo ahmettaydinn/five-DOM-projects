@@ -39,31 +39,42 @@ From beginner to master I have finished 5 Vanilla Javascript projects with api's
 
 ### Quote Generator
 I used:
+
+
 1- <a href="https://github.com/lukePeavey/quotable">Quotable api</a>
 2- DOM Manipulation
 3- HTML and CSS structuring
 
 ### Modal Web
-I used:
-1- DOM Manipulation
-3- HTML and CSS structuring
+<p>I used:</p>
+<ul>
+  <li><a href="https://github.com/lukePeavey/quotable">Quotable api</a></li>
+  <li> DOM Manipulation</li>
+  <li>HTML and CSS structuring</li>
+</ul>
 
 ### Accordion
-I used:
-2- DOM Manipulation
-3- CSS Animations
+<p>I used:</p>
+<ul>
+  <li> DOM Manipulation</li>
+  <li>CSS Animations</li>
+</ul>
 
 ### Timer
-I used:
-1- Javascript Algorithm
-2- DOM Manipulation
-3- HTML and CSS structuring
+<p>I used:</p>
+<ul>
+  <li>Javascript Algorithm</li>
+  <li>DOM Manipulation</li>
+  <li>HTML and CSS structuring</li>
+</ul>
 
-### TO-Do List
-I used:
-1- <a href="https://sweetalert2.github.io/e">Sweet Alert</a>
-2- DOM Manipulation
-3- HTML and CSS structuring
+### TODo List
+<p>I used:</p>
+<ul>
+  <li><a href="https://sweetalert2.github.io/e">Sweet Alert</a></li>
+  <li>DOM Manipulation</li>
+  <li>HTML and CSS structuring</li>
+</ul>
 
 
 
