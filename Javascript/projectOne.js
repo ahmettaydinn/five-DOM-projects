@@ -25,6 +25,6 @@ document.addEventListener("DOMContentLoaded", () => {
     button.addEventListener("click", updateQuote);
   
     // call updateQuote once when page loads
-    updateQuote();
+    
   });
   
