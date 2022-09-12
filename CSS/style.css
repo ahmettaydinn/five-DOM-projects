@@ -13,6 +13,7 @@ body {
 .card {
     height: 20rem;
     margin-right: 1rem;
+    margin-bottom: 1rem;
 }
 
 .card img {
@@ -37,48 +38,48 @@ button {
 
 @media screen and (max-width: 1000px) {
     html {
-      font-size: 13px;
+      font-size: 15px;
     }
   }
   
   @media screen and (max-width: 900px) {
     html {
-      font-size: 11px;
+      font-size: 14px;
     }
   }
   
   @media screen and (max-width: 800px) {
     html {
-      font-size: 10px;
+      font-size: 13px;
     }
   }
   
   @media screen and (max-width: 700px) {
     html {
-      font-size: 9px;
+      font-size: 12px;
     }
   }
   
   @media screen and (max-width: 600px) {
     html {
-      font-size: 8px;
+      font-size: 11px;
     }
   }
   
   @media screen and (max-width: 550px) {
     html {
-      font-size: 7px;
+      font-size: 10px;
     }
   }
   
   @media screen and (max-width: 500px) {
     html {
-      font-size: 6px;
+      font-size: 9px;
     }
   }
   
   @media screen and (max-width: 400px) {
     html {
-      font-size: 5px;
+      font-size: 8px;
     }
   }
