@@ -38,16 +38,6 @@ From beginner to master I have finished 5 Vanilla Javascript projects with api's
 <hr>
 
 ### Quote Generator
-I used:
-
-
-1- <a href="https://github.com/lukePeavey/quotable">Quotable api</a>
-2- DOM Manipulation
-3- HTML and CSS structuring
-
-<hr>
-
-### Modal Web
 <p>I used:</p>
 <ul>
   <li><a href="https://github.com/lukePeavey/quotable">Quotable api</a></li>
@@ -57,11 +47,20 @@ I used:
 
 <hr>
 
-### Accordion
+### Modal Web
 <p>I used:</p>
 <ul>
   <li> DOM Manipulation</li>
   <li>CSS Animations</li>
+</ul>
+
+<hr>
+
+### Accordion
+<p>I used:</p>
+<ul>
+  <li> DOM Manipulation</li>
+  <li>HTML and CSS structuring</li>
 </ul>
 
 <hr>
