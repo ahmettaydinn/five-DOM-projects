@@ -33,9 +33,8 @@ From beginner to master I have finished 5 Vanilla Javascript projects with api's
 
 
 ## Links
-<hr>
 <b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/five-DOM-projects/">Live Website</a>
-<hr>
+
 
 ### Quote Generator
 I used:
