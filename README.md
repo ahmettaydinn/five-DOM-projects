@@ -4,7 +4,6 @@
 
 
 
-
 # Project : 5 DOM Projects 
 
 ## Table of contents
@@ -86,7 +85,6 @@ From beginner to master I have finished 5 Vanilla Javascript projects with api's
 
 
 
--
 
 ## Notes
 
@@ -97,7 +95,6 @@ From beginner to master I have finished 5 Vanilla Javascript projects with api's
 - [W3 Schools](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
 - [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
 - [Tutorial](https://www.youtube.com/watch?v=5fb2aPlgoys) - This Project was published by Freecodecamp.
-
 
 
 
